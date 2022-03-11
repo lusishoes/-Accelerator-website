@@ -142,6 +142,23 @@ h5{
     margin-left: 28%;
 }
 #src{
-    margin-top: 140px;
+    margin-top: 110px;
     margin-right: 40px;
 }
+.blue1{
+    background-color: #001eff;
+    width: 100%;
+    padding: 100px 0px;
+    color: white;
+    font-family: Arial;
+}
+#bluetext{
+    margin: auto;
+    padding-left: 12%;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font: Arial;
+    font-size: 175%;
+    padding-right: 12%;
+}
+
