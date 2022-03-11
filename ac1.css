@@ -79,6 +79,7 @@ h4{
     background-color: white;
     width: 100%;
     padding: 100px 0px;
+    
 }
 .titel h2{
     color: black;
@@ -86,26 +87,31 @@ h4{
     width: 1130px;
     margin: 30px auto;
     text-align: center;
+    border-bottom: 2px solid maroon;
+    padding-bottom: 5px;
 }
 .box{
     display: flex;
     justify-content: center;
     align-items: center;
     display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 10%;
+    margin-right: 5%;
 }
 .card{
-    height: 150px;
-    width: 150px;
-    padding: 20px 35px;
+    height: 250px;
+    width: 250px;
     background-color: white;
     border-radius: 20px;
-    margin: 15px;
     position: relative;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    margin-top: 25%;
+}
+h5{
+    font-size: 250%;
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px;
 }
 
 
