@@ -128,3 +128,20 @@ h5{
     padding-top: 70px;
     margin-left: 40%;
 }
+#check{
+    width: 55px;
+    height: 55px;
+    margin-right: 45px;
+    display: inline;
+}
+.at{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    margin-left: 28%;
+}
+#src{
+    margin-top: 140px;
+    margin-right: 40px;
+}
