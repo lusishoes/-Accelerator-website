@@ -113,5 +113,12 @@ h5{
     border-bottom: 2px solid gray;
     padding-bottom: 5px;
 }
-
-
+.pra{
+    padding-top: 15%;
+}
+#when{
+    color: black;
+    margin: auto;
+    margin-left: 20%;
+    font-size: 250%;
+}
