@@ -202,3 +202,48 @@ h5{
 #selcc{
     padding-left: 110px;
 }
+.flexbox{
+    width: 100%;
+    height: 100%;
+    background-color: #efefef;
+}
+section {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 5%;
+    flex-wrap: wrap;
+}
+article {
+    background: white;
+    width: 360px;
+    height: 260px;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 450px;
+    font-family: Arial;
+    border-radius: 20px;
+    margin-left: 35px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+#flex{
+    text-align: center;
+    color: black;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 200%;
+}
+#fbox1{
+    text-align: center;
+    color: black;
+    font-size: 110%;
+    padding-bottom: 20px;
+}
+#fbox2{
+    text-align: center;
+    color: black;
+    font-size: 150%;
+    padding-bottom: 30px;
+}
