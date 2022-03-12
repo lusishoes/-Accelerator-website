@@ -6,7 +6,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url(back1.jpg);
+    background-image: url(pictures/back1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -22,28 +22,29 @@
 .logo{
     width: 170px;
     cursor: pointer;
-    border-radius: 20%;
     color: white;
-    
-}
-.logo:hover{
-    color: #f9004d;
-    transition: .9s;
+    font-size: 200%;
 }
 .navbar ul li{
     list-style: none;
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 25px;
 }
 .navbar ul li a{
     text-decoration: none;
     color: white;
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
 }
 .navbar ul li a:hover{
-    color: #f9004d;
-    transition: .4s;
+    color: blue;
+    transition: .9s;
+    border: 2px solid transparent;
+    border-radius: 30px;
+    background-color: white;
+    text-decoration: none;
+    padding: 2px 15px;
 }
 h1{
     position: center;
@@ -161,4 +162,43 @@ h5{
     font-size: 175%;
     padding-right: 12%;
 }
-
+.newAbout{
+    background-color: white;
+    width: 100%;
+    padding: 100px 0px;
+    font-family: Arial;
+}
+#zagolovok{
+    color: black;
+    font-size: 200%;
+    padding-bottom: 40px;
+}
+.text-newAbout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    margin-left: 128px;
+    padding-top: 40px;
+}
+#zagolovok p{
+  font-size: 200%;
+  padding-top: 80px;
+}
+#log1{
+    width: 500px;
+    height: 400px;
+    padding-left: 140px;
+    display: inline;
+}
+#log2{
+    width: 500px;
+    height: 400px;
+    padding-right: 40px;
+    display: inline;
+    margin-left: 40px;
+    margin-right: 90px;
+}
+#selcc{
+    padding-left: 110px;
+}
