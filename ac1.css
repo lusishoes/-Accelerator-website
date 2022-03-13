@@ -251,6 +251,7 @@ article {
     width: 100%;
     height: 100%;
     background-color: #ffffe5;
+    padding-bottom: 150px;
 }
 #hows1{
     color: black;
@@ -315,4 +316,50 @@ article {
     to {
         opacity: 1
     }
+}
+.wait{
+    width: 100%;
+    height: 100%;
+    background-color: #efefef;
+    padding-bottom: 60px;
+}
+#wait1{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    padding-top: 70px;
+    text-align: center;
+}
+.wait #wait2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 40px;
+
+}
+.btn1{
+    background-color: #f9004d;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px;
+    transition: transform .4s;
+    padding: 10px 25px;
+    margin-left: 40%;
+}
+.blue2{
+    background-color: #001eff;
+    width: 100%;
+    padding: 100px 0px;
+    color: white;
+    font-family: Arial;
+}
+.bluetext_1{
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 190%;
+    padding-top: 30px;
+    text-align: center;
 }
